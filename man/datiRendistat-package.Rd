@@ -6,7 +6,6 @@
 \alias{datiRendistat-package}
 \title{datiRendistat: I dati dell'indagine Rendistat}
 \description{
-More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+I dati dell'indagine RendiSTAT condotta nel 2016 Use four spaces when indenting paragraphs within the Description.
 }
 \keyword{internal}
